@@ -14,20 +14,20 @@ Use the package manager npm to install frontend and backend dependencies.
 
 Backend Setup:
 ```bash
-the-movies-at-mariana> cd backend 
+movie-app-react> cd backend 
 backend> npm i
 backend> node server.js
 ```
 NOTE: Node server will start at http://localhost:8000/
 
 Frontend Setup:
-* Create .env File at "the-movies-at-mariana/frontend" and add following:
+* Create .env File at "movie-app-react/frontend" and add following:
 ```bash
 REACT_APP_BACKEND_BASE_URL=http://localhost:8000
 ```
 * Install dependencies
 ```bash
-the-movies-at-mariana> cd frontend
+movie-app-react> cd frontend
 frontend> npm i
 frontend> npm start
 ```
