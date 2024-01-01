@@ -1,7 +1,6 @@
-# the-movies-at-mariana
+# Movies App In React.
 
 Movie App developed in ReactJs.
-Read [Instructions](https://github.com/Mariana-Tek/the-movies-at-mariana) to read the requirement. 
 ## Features:
 * Responsive
 * Error Handling
